@@ -1,4 +1,4 @@
-.VCF to .CSV CONVERTER TEST FILE
+.VCF to .CSV VEP CONVERTER TEST FILE
 __________________________________________________________________________________________
 To test vcftocsv_vep converter
 
